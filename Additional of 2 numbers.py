@@ -1,0 +1,5 @@
+a = int(input("Enetre Number 1: "))
+b = int(input("Enetre Number 2: "))
+print("1 numbers is ", a)
+print("2 numbers is ", b)
+print(a+b)
